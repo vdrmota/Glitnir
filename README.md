@@ -1,1 +1,1 @@
-Light-weight blockchain client written in node.
+Light-weight trustless arbitration protocol.
